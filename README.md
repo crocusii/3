@@ -1,1 +1,1 @@
-<img src="covillea.png" width="89%"></img>
+<img src="covillea.png" width="128%"></img>
