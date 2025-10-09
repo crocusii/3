@@ -1,7 +1,6 @@
 body {
- color: #CAC7A7;
- margin: 09px;
- background-color: #111111;
+ color: #CAC701;
+ background-color: #171717;
 }
 #17  {
 	fill black
@@ -51,4 +50,5 @@ body {
 #17111717117 {
 	fill black
 	rect 100 100 50 10
+
 }
