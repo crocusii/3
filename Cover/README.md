@@ -5,5 +5,4 @@
 /ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ/<br>
 Ñ¿ÀÂÄÑÐÏÎÍÌËÊÉÈÇÆÅÃÁ//\/Ñ¿ÀÂÄÑÐÏÎÍÌËÊÉÈÇÆÅÃÁ/<br>
 ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ//<br>
-<script src="https://gist.github.com/crocusii/8ef1b73d15395a0ec46983590d6b70bf.js"></script>
 <img src="/Cover/Cover.png"></img>
